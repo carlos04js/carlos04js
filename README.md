@@ -8,7 +8,9 @@ Leonardo Moura Leitao, Cod3r Online Courses.Not only js, but #C also from conten
 - 📫 How to reach me: How to  Can semd me a email in carlosaugusto042005@gmail.com
 - 
 
-<!---
-carlos04js/carlos04js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+div>
+
+<a href="https://github.com/carlos04js">
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=carlos04js&show_icons=true&theme=dracula&include_all_commits=true&count_private-false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos04js&layout=compact&langs_count=16&theme=dracula"/>
+</div>
