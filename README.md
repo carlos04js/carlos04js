@@ -4,25 +4,18 @@
 - 🌱Atualmente estou aprendendo JS com o curso: Curso virtual Curso Web Moderno Completo com JavaScript 2022+ Projetos -  -
 Leonardo Moura Leitão, Cursos Online Cod3r. Além de JS, tenho conhecimento basico em C#, css e conhecimento adquirido na prática de HTML mediante ao meus projetos e avanços.
 - 💞️ Procuro colaborar em projetos front-end e full-stack. Mas estou abrto para  aprender e  trabalhar em qualquer projeto com objetivo de  melhorar minhas habilidades e aprender mais trabalhando com outros desenvolvedores.
-- 📬| Como se conectar contato comigo: |
-[Linkedin](https://www.linkedin.com/in/carlos-augusto-037102256/)
-[Github](https://github.com/carlos04js)
-[Email](mailto:carlosaugusto042005@gmail.com?subject=&body=)
-
+- 📬 Como se conectar contato comigo: 
 <div> 
-    <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:carlosaugusto042005@gmail.com?subject=&body="><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+    <a href="https://www.instagram.com/carlosaugusto_12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:carlosaugusto042005@gmail.com?subject=&body="><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+  <a href="https://www.linkedin.com/in/carlos-augusto-037102256" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+   
 </div>
-
 <a href="https://github.com/carlos04js">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=carlos04js&show_icons=true&theme=dracula&include_all_commits=true&count_private-false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos04js&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-Habilidades: 
 <div style="display: inline_block"><br>
   <img align="center" alt="carlos04-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
