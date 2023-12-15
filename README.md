@@ -7,7 +7,7 @@ Leonardo Moura Leitão, Cursos Online Cod3r. Além de JS, tenho conhecimento bas
 - 📬 Como se conectar contato comigo: 
 <div> 
     <a href="https://www.instagram.com/carlosaugusto_12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:carlosaugusto042005@gmail.com?subject=&body="><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+   <a href ="mailto:carlosaugusto042005@gmail.com?subject=&body="><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
   <a href="https://www.linkedin.com/in/carlos-augusto-037102256" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
    
 </div>
