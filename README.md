@@ -1,10 +1,12 @@
-- 👋Olá, sou Carlos Augusto, um estudante da area de T.I e um futuro engenheiro da computação.Tenho atualmente 18 anos, estou estudando pelo curso  Web Moderno Completo com JavaScript + Projetos da cod3r apresentado por Leonardo Moura Leitão. Além desse curso, estou presente no bootcamp da DIO focado na area de front-end. Com esses cursos e estudos, além das novas experências e faculdades que irão de vir pretendo me tornar um desenvolvedor full stack até 2025, porém estagiando já a partir de 2024. Já tenho conheimentos sólidos em HTML, JS E CSS,sigo aprimorando minhas habilidades cada dia mais.
+👋 Olá, sou Carlos Augusto, um estudante da área de T.I. e um futuro engenheiro da computação. Atualmente, tenho 18 anos e estou estudando pelo curso "Web Moderno Completo com JavaScript + Projetos" da cod3r, apresentado por Leonardo Moura Leitão. Além desse curso, estou participando do bootcamp da DIO, focado na área de front-end. Com esses cursos e estudos, além das novas experiências e faculdades que virão, pretendo me tornar um desenvolvedor full stack até 2025, estagiando já a partir de 2024. Já tenho conhecimentos sólidos em HTML, JS e CSS, e continuo aprimorando minhas habilidades a cada dia.
 
-- 👀Tenho interesse em ser desenvolvedor web, principalmente na area do ful stack, e contribuir com projetos e empresas interessadas.Sendo assim sigo aprimorando minhas habilidades no front e back-end com cursos e projjetos.
-- 🌱Atualmente estou aprendendo JS com o curso: Curso virtual Curso Web Moderno Completo com JavaScript 2022+ Projetos -  -
-Leonardo Moura Leitão, Cursos Online Cod3r. Além de JS, tenho conhecimento basico em C#, css e conhecimento adquirido na prática de HTML mediante ao meus projetos e avanços.
-- 💞️ Procuro colaborar em projetos front-end e full-stack. Mas estou abrto para  aprender e  trabalhar em qualquer projeto com objetivo de  melhorar minhas habilidades e aprender mais trabalhando com outros desenvolvedores.
-- 📬 Como se conectar contato comigo: 
+👀 Tenho interesse em ser desenvolvedor web, principalmente na área do full stack, e contribuir com projetos e empresas interessadas. Sendo assim, continuo aprimorando minhas habilidades no front-end e back-end com cursos e projetos.
+
+🌱 Atualmente, estou aprendendo JS com o curso "Web Moderno Completo com JavaScript 2022+ Projetos" - Leonardo Moura Leitão, Cursos Online Cod3r. Além de JS, tenho conhecimento básico em C#, CSS e conhecimento adquirido na prática de HTML mediante aos meus projetos e avanços.
+
+💞️ Procuro colaborar em projetos front-end e full-stack. Mas estou aberto para aprender e trabalhar em qualquer projeto com o objetivo de aprimorar minhas habilidades e aprender mais, trabalhando com outros desenvolvedores.
+
+📬 Como se conectar comigo:
 <div> 
     <a href="https://www.instagram.com/carlosaugusto_12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href ="mailto:carlosaugusto042005@gmail.com?subject=&body="><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
