@@ -1,17 +1,18 @@
-👋 Olá, sou Carlos Augusto, Dev front-end . Atualmente, tenho 18 anos, estou cursando analise e desenvolvimento de sistemas pela PUC MINAS e estou estudando pelo curso "Web Moderno Completo com JavaScript + Projetos" da cod3r, apresentado por Leonardo Moura Leitão, dentre outros. Com as capacitações dos cursos livres juntamente a faculdade, além das novas experiências que virão, pretendo me tornar um desenvolvedor full stack até 2025, estagiando já a partir de 2024. Já tenho conhecimentos sólidos em HTML, JS e CSS, e continuo aprimorando minhas habilidades a cada dia. Sou extremamente motivado e estou disposto a aprender e crescer. 
-Me destaco por deter qualidades como  criatividade, capacidade de trabalhar em equipe, boa comunicação, ser um bom ouvinte, organizado, estudioso e bem dedicado. 
-Além disso, detenho  habilidades com front-end através da linguagens CSS, HTML, JS, principalmente através dos meus projetos que se encontram aqui, no git hub. Ademais , conservo conhecimento básico e fundamentos em gerenciamento AWS,  focado em S3, IAM e LAMBDA.
+👋 OOlá!Olá! Meu nome é Carlos Augusto, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas. Atualmente, atuo como estagiário em suporte e comercial, onde desenvolvo habilidades valiosas em diversas áreas do desenvolvimento e atendimento ao cliente.
 
-Estou certo de que posso ser uma peça valiosa para sua  organização, com propósito de aprender e contribuir constantemente em prol da melhora de todos.
- Espero ter a oportunidade de demonstrar isso pessoalmente.
+Minhas responsabilidades incluem o desenvolvimento e otimização do fluxo comercial de vendas e atendimentos do nosso software de gestão financeira. Analiso e aprimoro processos de vendas para garantir eficiência e satisfação do cliente. Também realizo vendas e ofereço suporte, ajudando os clientes a encontrar as melhores soluções e garantindo a implementação e o funcionamento adequado do software. Além disso, participo ativamente da Garantia de Qualidade (QA), realizando testes manuais para identificar e documentar bugs, e colaboro na implementação de correções durante as sprints de desenvolvimento.
 
-Por favor, entre em contato comigo se quiser agendar uma entrevista.
-
+Estou profundamente focado em desenvolver minhas habilidades em JavaScript, tanto para front-end quanto para back-end. Em meus projetos universitários e pessoais, utilizo JavaScript para criar soluções completas, e sigo aprimorando minhas habilidades com Node.js e React. Também estou me dedicando à manipulação de bancos de dados SQL para garantir a integração e a eficiência dos sistemas que desenvolvo..
 Desde já muito obrigado pela atenção.
 
-👀 Tenho interesse em serestágio em  desenvolvimento web, principalmente na áreas front end e   full stack, e contribuir com projetos e empresas interessadas. Sendo assim, continuo aprimorando minhas habilidades no front-end e back-end com cursos e projetos.
+👀 Meu objetivo é me tornar um desenvolvedor full-stack. Para alcançar esse objetivo, continuo aprofundando meus conhecimentos em JavaScript através do curso "Web Moderno Completo com JavaScript + Projetos" da Cod3r, apresentado por Leonardo Moura, e aplico o que aprendo tanto em minha formação acadêmica quanto em projetos práticos. Estou sempre em busca de novos desafios e oportunidades para crescer na área de desenvolvimento e estou animado para continuar aprendendo e contribuindo para projetos inovadores.
+Estou sempre em busca de novos desafios e oportunidades para crescer na área de desenvolvimento, e estou animado para continuar aprendendo e contribuindo para projetos inovadores..
 
-🌱 Atualmente, estou aprendendo JS com o curso "Web Moderno Completo com JavaScript 2022+ Projetos" - Leonardo Moura Leitão, Cursos Online Cod3r. Além de JS, tenho conhecimento básico em C#, CSS e conhecimento adquirido na prática de HTML mediante aos meus projetos e avanços.
+🌱 Atualmente, minha principal área de atuação envolve a programação em JavaScript e suas tecnologias adjacentes, como Node.js e React. Estas ferramentas são essenciais para o desenvolvimento de soluções tanto no front-end quanto no back-end. No front-end, utilizo o React para construir interfaces de usuário interativas e responsivas, enquanto no back-end, o Node.js permite que eu desenvolva servidores e APIs robustas e eficientes.
+
+Além de trabalhar com JavaScript, continuo desenvolvendo soluções acadêmicas utilizando C#, que é amplamente utilizado em minhas atividades universitárias. C# é uma linguagem fundamental para a construção de aplicações robustas e escaláveis, e meu trabalho com ela me proporciona uma base sólida para compreender conceitos avançados de desenvolvimento.
+
+No estágio, também tenho a oportunidade de manipular e realizar testes em Python. Embora não seja minha linguagem principal, o Python é valioso para a automação de processos e testes, permitindo-me explorar diferentes aspectos do desenvolvimento de software e garantir a qualidade das soluções que oferecemos..
 
 💞️ Procuro colaborar em projetos front-end e full-stack. Mas estou aberto para aprender e trabalhar em qualquer projeto com o objetivo de aprimorar minhas habilidades e aprender mais, trabalhando com outros desenvolvedores.
 
