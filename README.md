@@ -1,21 +1,18 @@
-👋 Olá! Meu nome é Carlos Augusto, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas. Atualmente, atuo como estagiário em suporte e comercial, onde desenvolvo habilidades valiosas em diversas áreas do desenvolvimento e atendimento ao cliente.
+Olá! Meu nome é Carlos Augusto, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas. Atualmente, atuo como Analista de Suporte Júnior em uma plataforma low code, onde desenvolvo soluções personalizadas para atender às demandas dos clientes, além de aprimorar continuamente minhas habilidades técnicas e de atendimento.
 
-Minhas responsabilidades incluem o desenvolvimento e otimização do fluxo comercial de vendas e atendimentos do nosso software de gestão financeira. Analiso e aprimoro processos de vendas para garantir eficiência e satisfação do cliente. Também realizo vendas e ofereço suporte, ajudando os clientes a encontrar as melhores soluções e garantindo a implementação e o funcionamento adequado do software. Além disso, participo ativamente da Garantia de Qualidade (QA), realizando testes manuais para identificar e documentar bugs, e colaboro na implementação de correções durante as sprints de desenvolvimento.
+Minhas principais responsabilidades incluem:
 
-Estou profundamente focado em desenvolver minhas habilidades em JavaScript, tanto para front-end quanto para back-end. Em meus projetos universitários e pessoais, utilizo JavaScript para criar soluções completas, e sigo aprimorando minhas habilidades com Node.js e React. Também estou me dedicando à manipulação de bancos de dados SQL para garantir a integração e a eficiência dos sistemas que desenvolvo..
-Desde já muito obrigado pela atenção.
+Desenvolvimento de Soluções: Criação e personalização de funcionalidades utilizando jQuery e JavaScript, garantindo que as necessidades dos clientes sejam atendidas de maneira eficiente e com alto nível de personalização.
 
-👀 Meu objetivo é me tornar um desenvolvedor full-stack. Para alcançar esse objetivo, continuo aprofundando meus conhecimentos em JavaScript através do curso "Web Moderno Completo com JavaScript + Projetos" da Cod3r, apresentado por Leonardo Moura, e aplico o que aprendo tanto em minha formação acadêmica quanto em projetos práticos. Estou sempre em busca de novos desafios e oportunidades para crescer na área de desenvolvimento e estou animado para continuar aprendendo e contribuindo para projetos inovadores.
-Estou sempre em busca de novos desafios e oportunidades para crescer na área de desenvolvimento, e estou animado para continuar aprendendo e contribuindo para projetos inovadores..
+Testes e Garantia de Qualidade (QA): Execução de testes manuais para identificar e documentar bugs. Colaboro diretamente com a equipe de desenvolvimento para garantir a qualidade e a estabilidade das funcionalidades entregues.
 
-🌱 Atualmente, minha principal área de atuação envolve a programação em JavaScript e suas tecnologias adjacentes, como Node.js e React. Estas ferramentas são essenciais para o desenvolvimento de soluções tanto no front-end quanto no back-end. No front-end, utilizo o React para construir interfaces de usuário interativas e responsivas, enquanto no back-end, o Node.js permite que eu desenvolva servidores e APIs robustas e eficientes.
+Participação em Sprints de Desenvolvimento: Atuação ativa durante sprints de desenvolvimento, focando na correção de bugs e na implementação de melhorias contínuas para otimizar o desempenho da plataforma.
 
-Além de trabalhar com JavaScript, continuo desenvolvendo soluções acadêmicas utilizando C#, que é amplamente utilizado em minhas atividades universitárias. C# é uma linguagem fundamental para a construção de aplicações robustas e escaláveis, e meu trabalho com ela me proporciona uma base sólida para compreender conceitos avançados de desenvolvimento.
+Estou profundamente focado em aprimorar minhas habilidades em JavaScript, tanto para front-end quanto para back-end. Em projetos acadêmicos e pessoais, utilizo JavaScript para desenvolver soluções completas e também estou me especializando em Node.js e React. Além disso, tenho me dedicado à manipulação de bancos de dados SQL para garantir a integração e a eficiência dos sistemas que crio.
 
-No estágio, também tenho a oportunidade de manipular e realizar testes em Python. Embora não seja minha linguagem principal, o Python é valioso para a automação de processos e testes, permitindo-me explorar diferentes aspectos do desenvolvimento de software e garantir a qualidade das soluções que oferecemos..
+Meu principal objetivo é me tornar um desenvolvedor full-stack. Para alcançar isso, continuo expandindo meus conhecimentos em JavaScript através do curso "Web Moderno Completo com JavaScript + Projetos" da Cod3r, ministrado por Leonardo Moura. Aplico o que aprendo tanto na minha formação acadêmica quanto em projetos práticos, sempre buscando novas oportunidades para crescer e contribuir com projetos inovadores no desenvolvimento de software.
 
-💞️ Procuro colaborar em projetos front-end e full-stack. Mas estou aberto para aprender e trabalhar em qualquer projeto com o objetivo de aprimorar minhas habilidades e aprender mais, trabalhando com outros desenvolvedores.
-
+Desde já, agradeço pela atenção e estou sempre aberto a novos desafios que me permitam continuar aprendendo e evoluindo como desenvolvedor.
 📬 Como se conectar comigo:
 <div> 
     <a href="https://www.instagram.com/carlosaugusto_12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
